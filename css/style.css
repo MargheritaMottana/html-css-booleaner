@@ -1,0 +1,70 @@
+/* HEADER */
+
+.logo-header {
+    width: 15%;
+}
+
+.sfondo-header {
+    background-image: url('../img/pattern.png');
+    background-color: rgb(70, 136, 216);
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 30%;
+}
+
+.crediti {
+    color: rgb(126, 148, 174);
+    font-weight: bold;
+    font-size: large;
+}
+
+.crediti-foto {
+    font-size: small;
+}
+
+/* PARAGRAFI */
+
+.giallo {
+    background-color: yellow;
+}
+
+/* TABELLA */
+
+table {
+    text-align: left;
+    border-collapse: collapse
+}
+
+.intestazione-blu {
+    color: white;
+    background-color: rgb(58, 183, 255);
+}
+
+.contenuto-azzurro {
+    background-color: rgb(171, 226, 248);
+}
+
+/* FOOTER */
+
+.approfondimento {
+    color: rgb(126, 148, 174);
+    font-weight: bold;
+    font-size: large;
+}
+
+.testo-immagini {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.foto1 {
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+
+.foto2 {
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+}
