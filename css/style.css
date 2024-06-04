@@ -58,8 +58,11 @@ table {
     color: white;
     font-weight: bold;
     font-size: large;
+    padding: 10px 0 0 10px;
     background-image: url("../img/monitor.jpg");
+    margin-top: 10px;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 .testo-immagini-2 {
@@ -68,6 +71,9 @@ table {
     color: white;
     font-weight: bold;
     font-size: large;
+    padding: 10px 0 0 10px;
     background-image: url("../img/graph.jpg");
+    margin-top: 10px;
     background-repeat: no-repeat;
+    text-align: center;
 }
